@@ -17,5 +17,6 @@ platforms:
         ">": "exit"
       context_search:
         "configure terminal": "(config)#"
-        "enable": "#"
+        "enable": "\nPassword:\t"
+        "admin": "#"
         "base": ">"
